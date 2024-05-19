@@ -80,7 +80,9 @@ If you are new to Biology, you might want to start with the following resources:
 - [Coursera - Genomic Data Science](https://www.coursera.org/programs/coursera-for-johns-hopkins-university-zfk78?authProvider=jhu&collectionId=&currentTab=CATALOG&productId=RBLtOqjrEeWKzg6na9raqQ&productType=s12n&showMiniModal=true) - Sign up with your @jhu.edu email to get free course certificates. Do this course second.
 - [OpenWetWare - Digital Tools and Resources](https://openwetware.org/wiki/Digital_Tools_&_Resources) - A comprehensive list of all tools you may ever need.
 
+## Videos
 
+- CrashCourse - [Biology](https://www.youtube.com/playlist?list=PL3EED4C1D684D3ADF)
 
 ## Publications
 
